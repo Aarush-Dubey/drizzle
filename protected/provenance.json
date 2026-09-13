@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "runId": "local-seeded-demo",
+  "candidateId": "seeded-baseline",
+  "headSha": "local-uncommitted",
+  "treeDigest": "local-uncommitted",
+  "trustedTestRevision": "weather-protected-v1",
+  "buildConfigRevision": "weather-build-v1",
+  "mode": "fixture"
+}
